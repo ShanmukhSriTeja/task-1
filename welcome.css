@@ -1,0 +1,26 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width:blue;
+    font-weight:200;
+    font-family: Arial,Helvitica,sans serif;
+
+}
+p{
+    max-width:200px;
+}
+a{
+    text-decoration: none;
+    colour:black;
+}
+h1{
+    font-size: 1rem;
+    background-color: yellow;
+    max-width: 200px;
+    padding-left: 20px;
+    margin-left: 20px;
+    padding: 5px 10px 5px 10px;
+}   
